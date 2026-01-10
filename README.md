@@ -9,6 +9,10 @@ Scripts ini memuat berbagai analisis seperti database exploration, measures and 
 > Proyek ini tetap terinspirasi dari tutorial asli
 Namun, Saya melakukan **improvisasi dan pengembangan mandiri** untuk melatih kemampuan Saya dalam menganalisis dan memanfaatkan berbagai tools yang memudahkan Saya dalam proses menganalisis tersebut.
 
+For the record:
+
+Dataset yang digunakan dalam repository ini berfokus pada periode tahun 2012–2013. Setiap penyebutan kata “tahun ini” atau “current year” dalam analisis dan visualisasi merujuk pada tahun 2013, sebagai tahun terakhir dalam cakupan data.
+
 ## Modifikasi / Penambahan Pribadi
 ### 1. Exploratory Data Analysis (EDA) menggunakan SQL 
 Pada tahap awal, saya melakukan exploratory data analysis (EDA) menggunakan SQL untuk menjawab berbagai pertanyaan bisnis berdasarkan dataset yang tersedia, antara lain:
