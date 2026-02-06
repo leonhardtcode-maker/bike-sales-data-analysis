@@ -1,3 +1,5 @@
+# Bike Sales Data Analysis
+
 Sebuah proyek analisis data tingkatan pemula yang dilakukan dari berbagai SQL scripts dan juga merupakan implementasi **belajar mengikuti tutorial** dari [Data with Baraa](http://bit.ly/3GiCVUE). 
 
 Dimana Course dan Dataset dapat diakses pada :
