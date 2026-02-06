@@ -6,8 +6,7 @@ Dimana Course dan Dataset dapat diakses pada :
 
 Scripts ini memuat berbagai analisis seperti database exploration, measures and metrics, time-based trends, cumulative analytics, segmentation, dan masih banyak lagi.
 
-> Proyek ini tetap terinspirasi dari tutorial asli
-Namun, Saya melakukan **improvisasi dan pengembangan mandiri** untuk melatih kemampuan Saya dalam menganalisis dan memanfaatkan berbagai tools yang memudahkan Saya dalam proses menganalisis tersebut.
+> Proyek ini tetap terinspirasi dari tutorial asli namun, Saya melakukan **improvisasi dan pengembangan mandiri** untuk melatih kemampuan Saya dalam menganalisis dan memanfaatkan berbagai tools yang memudahkan Saya dalam proses menganalisis tersebut.
 
 For the record:
 
@@ -18,7 +17,6 @@ Dataset yang digunakan dalam repository ini berfokus pada periode tahun 2012–2
 Pada tahap awal, saya melakukan exploratory data analysis (EDA) menggunakan SQL untuk menjawab berbagai pertanyaan bisnis berdasarkan dataset yang tersedia, antara lain:
 - 📈 Sales Performance 
   <details><summary><strong>List Pertanyaan</strong></summary>
-
   1. Berapa total revenue(sales_amount) tiap produk
   2. Produk mana yang menghasilkan revenue terbesar tahun ini
   3. Berapa total quantity yang terjual per bulan
