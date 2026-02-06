@@ -94,5 +94,7 @@ Pada tahap ini, data yang telah dianalisis divisualisasikan menggunakan Power BI
 - Menampilkan dashboard visual
 - Menyajikan insight bisnis secara ringkas dan interaktif
 - Mendukung proses pengambilan keputusan berbasis data
+- Terdiri dari 4 page yaitu, Executive Page, Location Page, Product Page dan Customer Page
+- Setiap page memiliki slicer
 
-![PowerBI Dashboard](assets/PowerBI%20Dashboard.png)
+![PowerBI Dashboard](assets/Power%20BI%20Dashboard.png)
